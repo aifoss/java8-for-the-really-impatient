@@ -1,4 +1,4 @@
-package java8_for_the_really_impatient.chap02_the_stream_api;
+package com.java8_for_the_really_impatient.chap02_the_stream_api;
 
 import java.io.IOException;
 import java.math.BigInteger;

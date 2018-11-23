@@ -1,4 +1,4 @@
-package java8_for_the_really_impatient.chap06_concurrency_enhancements;
+package com.java8_for_the_really_impatient.chap06_concurrency_enhancements;
 
 import java.util.Set;
 import java.util.concurrent.ConcurrentHashMap;

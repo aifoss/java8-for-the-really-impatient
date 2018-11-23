@@ -1,4 +1,4 @@
-package java8_for_the_really_impatient.chap03_programming_with_lambdas;
+package com.java8_for_the_really_impatient.chap03_programming_with_lambdas;
 
 import javafx.scene.image.Image;
 import javafx.scene.image.WritableImage;

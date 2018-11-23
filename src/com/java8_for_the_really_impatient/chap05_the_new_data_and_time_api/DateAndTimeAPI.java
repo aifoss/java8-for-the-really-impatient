@@ -1,4 +1,4 @@
-package java8_for_the_really_impatient.chap05_the_new_data_and_time_api;
+package com.java8_for_the_really_impatient.chap05_the_new_data_and_time_api;
 
 import java.time.DayOfWeek;
 import java.time.Duration;

@@ -1,4 +1,4 @@
-package java8_for_the_really_impatient.chap01_lambda_expressions;
+package com.java8_for_the_really_impatient.chap01_lambda_expressions;
 
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
